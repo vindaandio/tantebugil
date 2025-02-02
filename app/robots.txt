@@ -1,4 +1,3 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://tantebugil.pages.dev/sitemap.xml
